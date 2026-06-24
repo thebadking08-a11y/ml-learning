@@ -1,116 +1,90 @@
-# ML Learning Journey - Week 1
+# ML Learning Journey (July - August 2026)
 
-## 📊 Contenuto
+## 📚 Overview
+8-week self-study plan covering Python consolidation → ML fundamentals → practical applications.
 
-### 1. OOP Fundamentals - Portfolio Class
-- Classe `Portfolio` per gestire investimenti
-- Metodi: `add_stock()`, `get_value()`, `total_value()`, `show_holdings()`
-- **Skills**: OOP, classi, metodi, dizionari
+## Week 1 - OOP & EDA
+✅ Object-Oriented Programming (Portfolio class)  
+✅ Exploratory Data Analysis (Iris dataset)  
 
-### 2. Exploratory Data Analysis - Iris Dataset
-- Analisi completa del dataset Iris (150 campioni, 4 features, 3 specie)
-- **Statistiche**: media, deviazione standard, correlazioni
-- **Visualizzazioni**: histogram, scatter plots, box plots
-- **Libraries**: pandas, numpy, matplotlib, scikit-learn
+### Topics
+- OOP fundamentals: classes, methods, attributes
+- Pandas DataFrames and operations
+- NumPy arrays
+- Matplotlib visualizations
+- EDA on real datasets
 
-## 🚀 Skills acquisite
-
-✅ Object-Oriented Programming (OOP)  
-✅ Pandas DataFrames e operazioni  
-✅ NumPy arrays  
-✅ Matplotlib visualizzazioni  
-✅ Exploratory Data Analysis (EDA)  
-
-## 📁 File
-### 3. NumPy Fundamentals & Seaborn Visualization
-- Operazioni NumPy: media, std, min/max, correlazione
-- Dataset Diabetes (10 features, 442 samples)
-- **Visualizzazioni Seaborn**: histplot, heatmap, regplot, boxplot
-- **Skills**: NumPy array operations, Pandas aggregation, Seaborn advanced plots
-
-## 📊 Week 2 Completata
-
-✅ NumPy fundamentals  
-✅ Seaborn visualizzazioni avanzate  
-✅ Dataset reale (Diabetes)  
-✅ Correlazione e relazioni tra features  
-
-### 3. NumPy Fundamentals & Seaborn Visualization
-- Operazioni NumPy: media, std, min/max, correlazione
-- Dataset Diabetes (10 features, 442 samples)
-- **Visualizzazioni Seaborn**: histplot, heatmap, regplot, boxplot
-- **Skills**: NumPy array operations, Pandas aggregation, Seaborn advanced plots
-
-## 📊 Week 2 Completata
-
-✅ NumPy fundamentals  
-✅ Seaborn visualizzazioni avanzate  
-✅ Dataset reale (Diabetes)  
-✅ Correlazione e relazioni tra features  
-
-## 📁 File Week 2
-
-- `week2_numpy_seaborn.py` - NumPy operations + Seaborn plots
-- `week2_diabetes_analysis.png` - Analisi Diabetes dataset
+### Files
+- `week1_portfolio.py` - Portfolio class implementation
+- `week1_eda.py` - EDA on Iris dataset
+- `iris_eda.png` - Visualization analysis
 
 ---
 
-*Week 1-2 completate! Prossimo: Week 3 - ML Fundamentals (Regression)*
+## Week 2 - NumPy & Seaborn
+✅ NumPy fundamentals  
+✅ Advanced Seaborn visualizations  
 
+### Topics
+- NumPy operations: mean, std, min/max, correlation
+- Seaborn advanced plots: histplot, heatmap, regplot, boxplot
+- Working with real datasets (Diabetes)
+
+### Files
 - `week2_numpy_seaborn.py` - NumPy operations + Seaborn plots
-- `week2_diabetes_analysis.png` - Analisi Diabetes dataset
+- `week2_diabetes_analysis.png` - Diabetes dataset analysis
 
 ---
 
-*Week 1-2 completate! Prossimo: Week 3 - ML Fundamentals (Regression)*
-- `week1_portfolio.py` - Classe Portfolio + test
-- `week1_eda.py` - EDA su Iris dataset
-- `iris_eda.png` - Grafici analysis
-## 📊 Week 4 Completata
+## Week 3 - Linear Regression
+✅ Linear Regression from scratch  
+✅ Gradient Descent algorithm  
 
+### Topics
+- y = mx + b formula
+- MSE loss function
+- Gradient Descent optimization
+- Predictions on new data
+- Loss curve visualization
+
+### Files
+- `week3_linear_regression.py` - Linear Regression + Gradient Descent
+- `week3_linear_regression.png` - Fit, Loss Curve, Residuals
+
+---
+
+## Week 4 - Classification: Logistic Regression
 ✅ Logistic Regression implementation  
-✅ Sigmoid activation function  
-✅ Binary Cross-Entropy loss  
-✅ Classification metrics (Accuracy, Precision, Recall, F1)  
-✅ ROC-AUC Score & Confusion Matrix  
+✅ Binary classification  
 
-### 5. Logistic Regression & Classification
-- Binary classification problem (Breast Cancer dataset)
-- Sigmoid function per probabilità (0-1)
-- Binary Cross-Entropy loss function
-- Train/test split + model evaluation
-- ROC curve, confusion matrix, classification metrics
-- **Skills**: Classification, evaluation metrics, decision boundaries
+### Topics
+- Sigmoid activation function
+- Binary Cross-Entropy loss
+- Train/test split
+- Classification metrics: Accuracy, Precision, Recall, F1-Score
+- ROC-AUC Score & Confusion Matrix
 
-### File Week 4
+### Files
 - `week4_logistic_regression.py` - Logistic Regression implementation
 - `week4_logistic_regression.png` - Loss Curve, Decision Boundary, ROC, Confusion Matrix
 
 ---
 
-*Week 1-4 completate! Prossimo: Week 5 - Ensemble Methods (Random Forest)*
----
-## 📊 Week 3 Completata
+## Week 5 - Ensemble Methods: Random Forest
+✅ Random Forest classifier  
+✅ Model comparison  
 
-✅ Linear Regression implementation da zero  
-✅ Gradient Descent algorithm  
-✅ Loss curve visualization  
-✅ Residuals analysis  
+### Topics
+- Ensemble learning: combining multiple weak learners
+- Random Forest: 100 decision trees
+- Feature importance ranking
+- Hyperparameter tuning (n_estimators, max_depth)
+- Model comparison: Random Forest vs Logistic Regression
 
-### 4. Linear Regression & Gradient Descent
-- Implementazione manuale (NO sklearn)
-- y = mx + b, MSE loss function
-- Gradient Descent optimization
-- Previsioni su nuovi dati
-- **Skills**: Algorithm implementation, optimization, visualization
-
-### File Week 3
-- `week3_linear_regression.py` - Linear Regression + Gradient Descent
-- `week3_linear_regression.png` - Fit, Loss Curve, Residuals---
-  ---
+### Files
+- `week5_ensemble_methods.py` - Random Forest + Logistic Regression comparison
+- `week5_ensemble_methods.png` - Feature Importance, Model Comparison, Metrics, Confusion Matrix
 
 ---
 
-*Week 1-3 completate! Prossimo: Week 4 - Classification (Logistic Regression)*
-
-*Week 1 completata! Prossimo: Week 2 - Data Analysis avanzata + NumPy deepdive*
+*Week 1-5 completate! Prossimo: Week 6 - Practical ML (Titanic Dataset)*
