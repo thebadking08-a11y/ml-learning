@@ -66,7 +66,29 @@
 - `week1_portfolio.py` - Classe Portfolio + test
 - `week1_eda.py` - EDA su Iris dataset
 - `iris_eda.png` - Grafici analysis
+## 📊 Week 4 Completata
 
+✅ Logistic Regression implementation  
+✅ Sigmoid activation function  
+✅ Binary Cross-Entropy loss  
+✅ Classification metrics (Accuracy, Precision, Recall, F1)  
+✅ ROC-AUC Score & Confusion Matrix  
+
+### 5. Logistic Regression & Classification
+- Binary classification problem (Breast Cancer dataset)
+- Sigmoid function per probabilità (0-1)
+- Binary Cross-Entropy loss function
+- Train/test split + model evaluation
+- ROC curve, confusion matrix, classification metrics
+- **Skills**: Classification, evaluation metrics, decision boundaries
+
+### File Week 4
+- `week4_logistic_regression.py` - Logistic Regression implementation
+- `week4_logistic_regression.png` - Loss Curve, Decision Boundary, ROC, Confusion Matrix
+
+---
+
+*Week 1-4 completate! Prossimo: Week 5 - Ensemble Methods (Random Forest)*
 ---
 ## 📊 Week 3 Completata
 
@@ -84,7 +106,8 @@
 
 ### File Week 3
 - `week3_linear_regression.py` - Linear Regression + Gradient Descent
-- `week3_linear_regression.png` - Fit, Loss Curve, Residuals
+- `week3_linear_regression.png` - Fit, Loss Curve, Residuals---
+  ---
 
 ---
 
