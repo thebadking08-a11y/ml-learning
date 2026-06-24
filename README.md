@@ -68,5 +68,26 @@
 - `iris_eda.png` - Grafici analysis
 
 ---
+## 📊 Week 3 Completata
+
+✅ Linear Regression implementation da zero  
+✅ Gradient Descent algorithm  
+✅ Loss curve visualization  
+✅ Residuals analysis  
+
+### 4. Linear Regression & Gradient Descent
+- Implementazione manuale (NO sklearn)
+- y = mx + b, MSE loss function
+- Gradient Descent optimization
+- Previsioni su nuovi dati
+- **Skills**: Algorithm implementation, optimization, visualization
+
+### File Week 3
+- `week3_linear_regression.py` - Linear Regression + Gradient Descent
+- `week3_linear_regression.png` - Fit, Loss Curve, Residuals
+
+---
+
+*Week 1-3 completate! Prossimo: Week 4 - Classification (Logistic Regression)*
 
 *Week 1 completata! Prossimo: Week 2 - Data Analysis avanzata + NumPy deepdive*
