@@ -22,7 +22,47 @@
 ✅ Exploratory Data Analysis (EDA)  
 
 ## 📁 File
+### 3. NumPy Fundamentals & Seaborn Visualization
+- Operazioni NumPy: media, std, min/max, correlazione
+- Dataset Diabetes (10 features, 442 samples)
+- **Visualizzazioni Seaborn**: histplot, heatmap, regplot, boxplot
+- **Skills**: NumPy array operations, Pandas aggregation, Seaborn advanced plots
 
+## 📊 Week 2 Completata
+
+✅ NumPy fundamentals  
+✅ Seaborn visualizzazioni avanzate  
+✅ Dataset reale (Diabetes)  
+✅ Correlazione e relazioni tra features  
+
+### 3. NumPy Fundamentals & Seaborn Visualization
+- Operazioni NumPy: media, std, min/max, correlazione
+- Dataset Diabetes (10 features, 442 samples)
+- **Visualizzazioni Seaborn**: histplot, heatmap, regplot, boxplot
+- **Skills**: NumPy array operations, Pandas aggregation, Seaborn advanced plots
+
+## 📊 Week 2 Completata
+
+✅ NumPy fundamentals  
+✅ Seaborn visualizzazioni avanzate  
+✅ Dataset reale (Diabetes)  
+✅ Correlazione e relazioni tra features  
+
+## 📁 File Week 2
+
+- `week2_numpy_seaborn.py` - NumPy operations + Seaborn plots
+- `week2_diabetes_analysis.png` - Analisi Diabetes dataset
+
+---
+
+*Week 1-2 completate! Prossimo: Week 3 - ML Fundamentals (Regression)*
+
+- `week2_numpy_seaborn.py` - NumPy operations + Seaborn plots
+- `week2_diabetes_analysis.png` - Analisi Diabetes dataset
+
+---
+
+*Week 1-2 completate! Prossimo: Week 3 - ML Fundamentals (Regression)*
 - `week1_portfolio.py` - Classe Portfolio + test
 - `week1_eda.py` - EDA su Iris dataset
 - `iris_eda.png` - Grafici analysis
